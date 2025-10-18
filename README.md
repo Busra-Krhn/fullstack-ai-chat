@@ -98,10 +98,10 @@ Bu projede **Claude AI** kullandım:
 
 ## Demo Linkler
 
-- **Hugging Face AI:** https://huggingface.co/spaces/rabusra/sentiment_analysis_api_
-- **Web Uygulaması:** Localhost'ta çalışıyor
-- **GitHub Repo:** https://github.com/Busra-Krhn/fullstack-ai-chat
-
+- **Web Uygulaması:** https://fullstack-chat-ai.vercel.app
+- **Backend API:** https://RENDER-URL-İN
+- **Hugging Face AI:** https://HF-SPACE-URL-İN
+- 
 ## Öğrendiklerim
 
 - React ile frontend geliştirme
