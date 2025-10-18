@@ -97,11 +97,10 @@ Bu projede **Claude AI** kullandım:
 7. Ekranda emoji + skor gösterilir
 
 ## Demo Linkler
+- **Web Uygulaması:** https://fullstack-chat-ai.vercel.app  
+- **Backend API:** https://fullstack-ai-chat-3drl.onrender.com  
+- **AI Servisi (Hugging Face):** https://huggingface.co/spaces/rabusra/sentiment_analysis_api_
 
-- **Web Uygulaması:** https://fullstack-chat-ai.vercel.app
-- **Backend API:** https://RENDER-URL-İN
-- **Hugging Face AI:** https://HF-SPACE-URL-İN
-- 
 ## Öğrendiklerim
 
 - React ile frontend geliştirme
