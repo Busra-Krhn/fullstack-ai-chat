@@ -112,4 +112,4 @@ Bu projede **Claude AI** kullandım:
 
 ## Yapımcı
 
-Büşra Karahan - Full Stack + AI Stajyer Projesi
+Büşra Karahan - Full Stack + AI Stajyer Projesigit add README.md
