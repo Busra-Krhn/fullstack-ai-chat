@@ -96,10 +96,12 @@ Bu projede **Claude AI** kullandım:
 6. Sonuç veritabanına kaydedilir
 7. Ekranda emoji + skor gösterilir
 
-## Demo Linkler
-- **Web Uygulaması:** https://fullstack-chat-ai.vercel.app  
-- **Backend API:** https://fullstack-ai-chat-3drl.onrender.com  
-- **AI Servisi (Hugging Face):** https://huggingface.co/spaces/rabusra/sentiment_analysis_api_
+## Canlı Demo Linkleri
+
+- **GitHub Repository:** [https://github.com/Busra-Krhn/fullstack-ai-chat](https://github.com/Busra-Krhn/fullstack-ai-chat)
+- **Web Uygulaması (Vercel):** [https://fullstack-chat-ai.vercel.app](https://fullstack-chat-ai.vercel.app)
+- **Backend API (Render):** [https://fullstack-ai-chat-3drl.onrender.com](https://fullstack-ai-chat-3drl.onrender.com)
+- **AI Servisi (Hugging Face):** [https://huggingface.co/spaces/rabusra/sentiment_analysis_api_](https://huggingface.co/spaces/rabusra/sentiment_analysis_api_)
 
 ## Öğrendiklerim
 
