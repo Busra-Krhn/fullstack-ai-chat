@@ -106,9 +106,9 @@ Bu projede **Claude AI** kullandım:
 - React ile frontend geliştirme
 - .NET Core ile API yapma
 - SQLite veritabanı kullanımı
-- AI model entegrasyonu (Hugging Face)
+- Ücretsiz deployment süreci(Render,HuggingFace,Vercel)
 - Full-stack uygulama geliştirme süreci
-
+- 
 ## Yapımcı
 
 Büşra Karahan - Full Stack + AI Stajyer Projesigit add README.md
